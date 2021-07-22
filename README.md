@@ -4,14 +4,6 @@
 
 CVPR 2021 收录列表：http://cvpr2021.thecvf.com/sites/default/files/2021-03/accepted_paper_ids.txt
 
-> 注1：欢迎各位大佬提交issue，分享CVPR 2021论文和开源项目！
->
-> 注2：关于往年CV顶会论文以及其他优质CV论文和大盘点，详见： https://github.com/amusi/daily-paper-computer-vision
-
-如果你想了解最新最优质的的CV论文、开源项目和学习资料，欢迎扫码加入【CVer学术交流群】！互相学习，一起进步~ 
-
-![](CVer学术交流群.png)
-
 ## 【CVPR 2021 论文开源目录】
 
 - [Best Paper](#Best-Paper)
